@@ -1,0 +1,32 @@
+body{
+    padding: 150px 400px;
+    background-color:rgb(3, 3, 37) ;
+    text-align: center;
+}
+.advice{
+    font-family: monospace;
+    color: rgb(17, 245, 17);
+}
+p{
+    color:rgb(185, 176, 176);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.5rem;
+}
+ div{
+    background-color: rgb(97, 96, 96);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+}
+hr{
+    width: 350px;
+    padding: -8px -8px;
+    margin: -2px -2px;
+}
+svg{
+    margin:-10px 10px;
+    border-radius:50%;
+    padding:8px 8px;
+    background: rgb(7, 245, 106);
+}
